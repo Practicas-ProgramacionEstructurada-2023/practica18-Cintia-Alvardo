@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\bin\Debug\net7.0\practica18-Cintia-Alvardo.exe
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\bin\Debug\net7.0\practica18-Cintia-Alvardo.deps.json
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\bin\Debug\net7.0\practica18-Cintia-Alvardo.runtimeconfig.json
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\bin\Debug\net7.0\practica18-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\bin\Debug\net7.0\practica18-Cintia-Alvardo.pdb
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\obj\Debug\net7.0\practica18-Cintia-Alvardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\obj\Debug\net7.0\practica18-Cintia-Alvardo.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\obj\Debug\net7.0\practica18-Cintia-Alvardo.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\obj\Debug\net7.0\practica18-Cintia-Alvardo.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\obj\Debug\net7.0\practica18-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\obj\Debug\net7.0\refint\practica18-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\obj\Debug\net7.0\practica18-Cintia-Alvardo.pdb
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\obj\Debug\net7.0\practica18-Cintia-Alvardo.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Downloads\Practica #18\practica18-Cintia-Alvardo\obj\Debug\net7.0\ref\practica18-Cintia-Alvardo.dll
